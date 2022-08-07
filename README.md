@@ -1,5 +1,6 @@
 # pidconsole
 
-Find process id of any application but for example purpose i have used calculator to find it's process id.
+#Find process id of any application. Paint used as a demonstration..
+#Change the windows title to whatever program you want to locate.
 
-Change the windows title to whatever program you want to locate.
+#TODO: Add More stuff
