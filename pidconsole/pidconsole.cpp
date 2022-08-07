@@ -1,5 +1,5 @@
 // pidconsole.cpp : This file contains the 'main' function. Program execution begins and ends there.
-
+// find process id of any application, used Paint for demonstration purposes, replacee with any program to to find it's process id.
 
 #include <iostream>
 #include <Windows.h>
